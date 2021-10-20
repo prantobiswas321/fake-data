@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "The Senior Home Care Service",
+    "cost": 28,
+    "description": "The Seniors who want to recover at home after an illness, injury, or hospital stay might need home health care services. Home health care is a type of short-term in-home care that aligns with a doctor's care plan to help a patient prevent or recover from a medical condition or surgery. Its primary focus is addressing a senior's medical conditions.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-7-1536x864-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "The Perfect Home Care Services",
+    "cost": 42,
+    "description": "Perfect Home Care strives to serve and assist in creating a difference in the lives of our customers. Our primary commitment is working together with the client and the family. We consider it a privilege to assist them and we are dedicated to finding solutions that are as unique as they are.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Senior Caring Home Care Service",
+    "cost": 42,
+    "description": "Caring Senior Service strives to be a helpful resource for anyone who wants to learn more about home care, caregiving, or aging in general. We have created free resources, checklists, eBooks, and other educational materials to help seniors, their family members, and caregivers alike understand and navigate the difficulties that come with aging.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-3-1536x864-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Sunrise Senior Living Home Care Service",
+    "cost": 42,
+    "description": "Our respite care services can support In Home and Dignity Home Care by having professionals care for your loved one while you are away. Whether it’s an unexpected situation, an extended vacation or needed relief, we can provide immediate care without disruption.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-1-1536x864-1.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dignity Home Care",
+    "cost": 42,
+    "description": "Dignity Home Care gives seniors a range of choices to customize their care. In home care is offered in New York (Nassau, Suffolk, Brooklyn, Queens and Westchester), New Jersey and Connecticut through Dignity Home Care.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Nation’s No.1 Home Care Service",
+    "cost": 46,
+    "description": "As people are living longer and desire to stay in their own homes, there is a greater need for home care to help with daily needs. On average, seven out of 10 people over 65 will require long term care services as they age.1 If your loved one is having difficulty living independently at home, home care services can help them stay in their home longer, reduce the risk of falls, and improve quality of life.",
+    "image": "https://elementorpress.com/templatekit-pro/layout06/wp-content/uploads/2020/10/SenC-3-1536x864-1.jpg"
+  }
+]
